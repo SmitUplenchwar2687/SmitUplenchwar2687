@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Smit</h1>
 
 <p align="left">
-I love building cool things and solving hard problems. I'm currently pursuing my <b>M.S. in Computer Science</b> at the <b>University at Buffalo</b>, graduating in Dec 2025.  
+I love building cool things and solving hard problems. I'm currently pursuing my <b>M.S. in Computer Science</b> at the <b>University at Buffalo</b>. 
 I enjoy working on <b>AI/LLMs, Distributed Systems, Full-Stack</b>, and performance optimization. Always curious, always learning 🚀.
 </p>
 
